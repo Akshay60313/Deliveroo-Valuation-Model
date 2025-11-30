@@ -14,3 +14,4 @@ This project involves building a comprehensive financial model to assess the fai
 * **Market Value:** Comparable Company Analysis (EV/EBITDA) implied **£1.68**.
 * **Conclusion:** The DoorDash offer of £1.80 represents a fair market entry but a **~20% discount** to the company's long-term intrinsic potential.
 
+<img width="601" height="397" alt="Valuation chart" src="https://github.com/user-attachments/assets/80023bef-a084-439c-8060-47c423d70bc4" />
