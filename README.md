@@ -1,6 +1,6 @@
  Strategic Valuation: Deliveroo Plc (M&A Fairness Opinion)
 
-##Project Overview
+##Project Overview##
 This project involves building a comprehensive financial model to assess the fairness of DoorDash’s cash offer of **£1.80 per share** for Deliveroo Plc.
 
 **Key Tools & Techniques**
